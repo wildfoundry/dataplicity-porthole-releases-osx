@@ -16,7 +16,7 @@ In addition, Porthole provides command-line access to Dataplicity.  You can use 
 
 Documentation for the Dataplicity Porthole command-line is [available here](http://docs.dataplicity.com/v1.0/docs/command-line-interface).
 
-## Download for MacOS High Sierra
+## Download for MacOS Sierra and newer
 
 [Porthole installer (PKG for OS X)](https://github.com/wildfoundry/dataplicity-porthole-releases-osx/releases/download/1.4/DataplicityPortholeSetup.pkg)
 
