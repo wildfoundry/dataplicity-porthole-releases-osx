@@ -1,6 +1,9 @@
 # Dataplicity Porthole for MacOS
 Dataplicity Porthole lets you forward any TCP port from a Dataplicity-enabled device to your Mac.  
 
+![winscp](https://image.ibb.co/gbyVkG/5d95061_winscp.png)
+
+
 ## Things you can do with Porthole
 - [File transfer](http://docs.dataplicity.com/docs/file-transfer-via-porthole)
 - [Remote Desktop/VNC](http://docs.dataplicity.com/docs/remote-desktop-via-porthole)
@@ -15,7 +18,7 @@ Documentation for the Dataplicity Porthole command-line is [available here](http
 
 ## Download for MacOS Sierra and newer
 
-[Porthole installer (PKG for OS X)](https://github.com/wildfoundry/dataplicity-porthole-releases-osx/releases/download/1.7/DataplicityPortholeSetup.pkg)
+[Porthole installer (PKG for OS X)](https://github.com/wildfoundry/dataplicity-porthole-releases-osx/releases/download/1.9/DataplicityPortholeSetup.pkg)
 
 ## More information
 For more information, visit https://www.dataplicity.com/.
