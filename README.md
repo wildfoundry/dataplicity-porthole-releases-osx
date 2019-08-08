@@ -15,7 +15,7 @@ Documentation for the Dataplicity Porthole command-line is [available here](http
 
 ## Download for MacOS Sierra and newer
 
-[Porthole installer (PKG for OS X)](https://github.com/wildfoundry/dataplicity-porthole-releases-osx/releases/download/1.9/DataplicityPortholeSetup.pkg)
+[Porthole installer (PKG for OS X)](https://github.com/wildfoundry/dataplicity-porthole-releases-osx/releases/download/1.11/DataplicityPortholeSetup.pkg)
 
 ## More information
 For more information, visit https://www.dataplicity.com/.
